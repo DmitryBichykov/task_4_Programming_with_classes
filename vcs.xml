@@ -10,6 +10,14 @@
           <option name="url" value="https://github.com/DmitryBichykov/testTasks.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DmitryBichykov/task_4_Programming_with_classes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="DmitryBichykov" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\My documents\Работа" />
